@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rizki Novendra
+[# 👋 Hi, I'm Rizki Novendra](https://readme-typing-svg.herokuapp.com/demo/?font=Mona+Sans&weight=900&size=35&center=true&vCenter=true&lines=Hi%2C+I'm+Rizki+Novendra)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&lines=Game+Developer;AI+Enthusiast;Horror+Game+Designer)
+🎮 Aspiring Game Developer | 💻 Informatics Student | 🧠 Logic & AI Enthusiast
 
 ---
 
