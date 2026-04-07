@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rizki Novendra
 
-🎮 Aspiring Game Developer | 💻 Informatics Student | 🧠 Game Enthusiast
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&lines=Game+Developer;AI+Enthusiast;Horror+Game+Designer)
 
 ---
 
