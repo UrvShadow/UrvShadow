@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Rizki Novendra](https://readme-typing-svg.herokuapp.com/demo/?font=Mona+Sans&weight=900&size=35&center=true&vCenter=true&lines=Hi%2C+I'm+Rizki+Novendra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=900&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rizki+Novendra)](https://git.io/typing-svg)
 
 🎮 Aspiring Game Developer | 💻 Informatics Student | 🧠 Logic & AI Enthusiast
 
